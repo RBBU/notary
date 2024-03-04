@@ -33,6 +33,8 @@ extra:
   social:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/RBBU
+    - icon: fontawesome/brands/linkedin
+      link: https://dk.linkedin.com/in/2-muna
 
 markdown_extensions:
   - pymdownx.highlight:
