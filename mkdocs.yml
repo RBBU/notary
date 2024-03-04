@@ -52,4 +52,4 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 copyright: |
-  &copy; 2024 <a href="https://github.com/RBBU"  target="_blank" rel="noopener">Muna Hasan Mohamed</a>
+  &copy; 2024 <a href="https://github.com/RBBU"  target="_blank" rel="noopener">Muna</a>
