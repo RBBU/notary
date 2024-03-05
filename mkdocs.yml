@@ -1,6 +1,6 @@
 site_name: Notary
 theme:
-  name: material
+  name: alabaster
   features:
     - navigation.tabs
     - navigation.sections
