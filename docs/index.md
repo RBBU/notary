@@ -1,4 +1,4 @@
-# Blog
+# Home
 
 Hello World,
 
