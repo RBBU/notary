@@ -2,6 +2,11 @@ site_name: Notary
 theme:
   name: material
   features:
+    - header.autohide
+    - announce.dismiss
+    - navigation.footer
+    - navigation.indexes
+    - navigation.tracking
     - navigation.tabs
     - navigation.sections
     - toc.integrate
@@ -9,6 +14,7 @@ theme:
     - search.suggest
     - search.highlight
     - content.tabs.link
+    - search.share
     - content.code.annotation
     - content.code.copy
   language: en
