@@ -1,0 +1,10 @@
+# Specify text files
+*.md text
+*.yaml text
+*.yml text
+
+# Specify binary files (images, etc.)
+*.png binary
+*.jpg binary
+*.gif binary
+*.svg binary
