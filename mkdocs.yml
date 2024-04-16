@@ -28,7 +28,9 @@ theme:
 
     logo: fontawesome/brands/github-alt
   plugins:
-  - typeset
+  - blog
+  - typeset:
+      typeset_html: true
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - social
@@ -59,7 +61,12 @@ theme:
 
 extra:
   generator: false
-
+  status:
+    new: Recently added
+    deprecated: Deprecated
+  analytics:
+    provider: google
+    property: !ENV GOOGLE_ANALYTICS_KEY
   social:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/RBBU
