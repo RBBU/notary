@@ -102,5 +102,10 @@ nav:
       - 'Machine Learning':
         - 'Machine Learning Intro': Machine_Learning/machinelearningintro.md
 
+extra_css:
+  - stylesheets/extra.css
+
+
+
 copyright: |
   &copy; 2024 <a href="https://github.com/RBBU"  target="_blank" rel="noopener">Muna</a>
