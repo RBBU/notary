@@ -74,5 +74,15 @@ markdown_extensions:
   - toc:
       permalink: true
 
+
+
+nav:
+  - Home: https://rbbu.github.io/notary/
+  - Articles:
+      - 'Start Here':
+        - 'Start Here': index.md
+      - 'Machine Learning':
+        - 'Machine Learning Intro': Machine_Learning/machinelearningintro.md
+
 copyright: |
   &copy; 2024 <a href="https://github.com/RBBU"  target="_blank" rel="noopener">Muna</a>
