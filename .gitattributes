@@ -1,7 +1,8 @@
-# Specify text files
+## Specify text files
 *.md text
 *.yaml text
 *.yml text
+*.html text
 
 # Specify binary files (images, etc.)
 *.png binary
