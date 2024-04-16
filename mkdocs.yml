@@ -32,7 +32,7 @@ theme:
   - search
   - social
 
-   palette:
+  palette:
     - media: "(prefers-color-scheme)"
       toggle:
         icon: material/link
@@ -65,6 +65,13 @@ extra:
       link: https://github.com/RBBU
     - icon: fontawesome/brands/linkedin
       link: https://dk.linkedin.com/in/2-muna
+# Plugins
+plugins:
+  - blog
+  - search:
+      separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+  - minify:
+      minify_html: true
 
 markdown_extensions:
   - pymdownx.highlight:
