@@ -47,17 +47,6 @@ theme:
       accent: deep orange
 
 
-markdown_extensions:
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
-  - attr_list
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
-  - toc:
-      permalink: true
-
 extra:
   generator: false
 
@@ -83,6 +72,8 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+  - toc:
+      permalink: true
 
 copyright: |
   &copy; 2024 <a href="https://github.com/RBBU"  target="_blank" rel="noopener">Muna</a>
