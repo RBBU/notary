@@ -1,6 +1,7 @@
-site_name: Notary
+site_name: Muna Hasan Mohamed 
 theme:
   name: material
+  custom_dir: overrides
   features:
     - header.autohide
     - announce.dismiss
@@ -18,6 +19,15 @@ theme:
     - content.code.annotation
     - content.code.copy
   language: en
+  icon:
+
+
+    logo: fontawesome/brands/github-alt
+  plugins:
+  - typeset
+  - search
+  - social
+
   palette:
     # Palette toggle for dark mode
     - scheme: slate
@@ -26,7 +36,7 @@ theme:
         name: Switch to light mode
       primary: black
       #accent: purple
-      
+
     # Palette toggle for light mode
 
     - scheme: default
@@ -36,8 +46,17 @@ theme:
       primary: blue
       accent: deep orange
 
-plugins:
-  - social
+
+markdown_extensions:
+    - admonition
+    - pymdownx.details
+    - pymdownx.superfences
+    - attr_list
+    -paymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+    -toc:
+      permalink: true
 
 extra:
   social:
