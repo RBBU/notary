@@ -48,18 +48,19 @@ theme:
 
 
 markdown_extensions:
-    - admonition
-    - pymdownx.details
-    - pymdownx.superfences
-    - attr_list
-    -paymdownx.emoji:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
-    -toc:
+  - toc:
       permalink: true
 
 extra:
   generator: false
+
   social:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/RBBU
