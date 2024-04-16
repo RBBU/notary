@@ -1,4 +1,8 @@
-site_name: Muna Hasan Mohamed 
+site_name: Notary 
+site_url: https://rbbu.github.io/notary/
+site_author: Muna Hasan Mohamed
+site_description: >-
+  My personal hub where I share my projects and thoughts
 theme:
   name: material
   custom_dir: overrides
@@ -28,25 +32,31 @@ theme:
   - search
   - social
 
-  palette:
-    # Palette toggle for dark mode
-    - scheme: slate
+   palette:
+    - media: "(prefers-color-scheme)"
       toggle:
-        icon: material/weather-night
+        icon: material/link
         name: Switch to light mode
-      primary: black
-      #accent: purple
-
-    # Palette toggle for light mode
-
-    - scheme: default
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
       toggle:
-        icon: material/weather-sunny
+        icon: material/toggle-switch
         name: Switch to dark mode
-      primary: blue
-      accent: deep orange
-
-
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off
+        name: Switch to system preference
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: assets/favicon.png
+  icon:
+    logo: logo
 extra:
   generator: false
 
