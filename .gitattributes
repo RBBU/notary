@@ -9,3 +9,6 @@
 *.jpg binary
 *.gif binary
 *.svg binary
+
+# Enforce Unix newlines
+* text=auto eol=lf
