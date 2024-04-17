@@ -108,9 +108,9 @@ nav:
         - 'Start Here': index.md
       - 'Machine Learning':
         - 'Machine Learning Intro': Machine_Learning/machinelearningintro.md
-      - 'Blog':
-        - 'Posts':
-            'Post': Posts/hello-world.md
+  - Blog:
+      - 'Posts':
+        - 'Post': Posts/hello-world.md
 
 extra_css:
   - stylesheets/extra.css
