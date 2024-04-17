@@ -105,12 +105,13 @@ nav:
   - Home: https://rbbu.github.io/notary/
   - Articles:
       - 'Start Here':
-        - 'Start Here': index.md
+          - 'Start Here': index.md
       - 'Machine Learning':
-        - 'Machine Learning Intro': Machine_Learning/machinelearningintro.md
+          - 'Machine Learning Intro': Machine_Learning/machinelearningintro.md
   - Blog:
       - 'Posts':
-        - 'Hello World': Posts/hello-world.md
+          - 'Hello World': Posts/hello-world.md
+
 
 extra_css:
   - stylesheets/extra.css
