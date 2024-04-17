@@ -103,14 +103,12 @@ markdown_extensions:
 
 
 nav:
-  - Home: https://rbbu.github.io/notary/
-  - Knowledge Base:
-      - 'Start Here':
-          - 'Start Here': index.md
-      - 'Machine Learning':
-          - 'Intro to Machine Learning': Machine_Learning/intro.md
-      - 'Blog':
-          - 'Hello World': Blog/hello-world.md
+    - Home: index.md
+    - Knowledge Base:
+        - 'Machine Learning': Machine_Learning/index.md
+        - 'Intro to Machine Learning': Machine_Learning/intro.md
+    - Blog:
+        - 'Hello World': Blog/hello-world.md
 
 
 extra_css:
