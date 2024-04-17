@@ -105,11 +105,13 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Knowledge Base:
-      - 'Machine Learning': Knowledge_Base/Machine_Learning/index.md
-      - 'Intro to Machine Learning': Knowledge_Base/Machine_Learning/intro.md
+      - 'Machine Learning': knowledge_base/machine_learning/index.md
+      - 'Intro to Machine Learning': knowledge_base/machine_learning/intro.md
   - Blog: 
-      - 'Intro': Blog/index.md
-      - 'Hello World': Blog/hello-world.md
+      - 'Intro': blog/index.md
+      - 'Hello World': blog/hello-world.md
+  - Projects:
+      - 'Intro': projects/index.md
 
 
 extra_css:
