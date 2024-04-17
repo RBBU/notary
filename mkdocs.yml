@@ -95,7 +95,8 @@ markdown_extensions:
   - pymdownx.mark
   - attr_list
   - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji      
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
   - toc:
       permalink: true
 
@@ -104,8 +105,6 @@ markdown_extensions:
 nav:
   - Home: https://rbbu.github.io/notary/
   - Articles:
-      - 'Start Here':
-          - 'Start Here': index.md
       - 'Machine Learning':
           - 'Machine Learning Intro': Machine_Learning/machinelearningintro.md
   - Blog:
