@@ -113,7 +113,7 @@ nav:
   - Projects:
       - 'Intro': projects/index.md
   - Book Recommendations:
-      - 'Intro': book_recommendation/index.md
+      - 'Book Recommendations': book_recommendations/index.md
 
 
 extra_css:
