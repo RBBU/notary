@@ -110,7 +110,7 @@ nav:
           - 'Machine Learning Intro': Machine_Learning/machinelearningintro.md
   - Blog:
       - 'Posts':
-          - 'Hello World': hello-world.md
+          - 'Hello World': Blog/hello-world.md
 
 
 extra_css:
