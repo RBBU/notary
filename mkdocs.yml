@@ -112,6 +112,8 @@ nav:
       - 'Hello World': blog/hello-world.md
   - Projects:
       - 'Intro': projects/index.md
+  - Book Recommendations:
+      - 'Intro': book_recommendation/index.md
 
 
 extra_css:

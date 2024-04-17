@@ -1,0 +1,1 @@
+In this section, I will do my best to share books that I believe will enrich your journey into data science and machine learning. Hopefully, they will help you avoid pitfalls and essentially cover what I wish I knew before.
