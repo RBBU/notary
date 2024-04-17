@@ -108,7 +108,7 @@ nav:
       - 'Machine Learning': Knowledge_Base/Machine_Learning/index.md
       - 'Intro to Machine Learning': Knowledge_Base/Machine_Learning/intro.md
   - Blog: 
-      - 'Blog Intro': Blog/intro.md
+      - 'Intro': Blog/index.md
       - 'Hello World': Blog/hello-world.md
 
 
