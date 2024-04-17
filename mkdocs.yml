@@ -109,8 +109,8 @@ nav:
       - 'Intro to Machine Learning': Knowledge_Base/Machine_Learning/intro.md
   - Blog:
       - 'Hello World': Blog/hello-world.md
-      - 'Intro': Blog/index.md 
-      
+      - 'Intro': Blog/index.md
+
 extra_css:
   - stylesheets/extra.css
 
