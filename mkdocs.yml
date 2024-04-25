@@ -109,7 +109,7 @@ nav:
       - 'Intro to Machine Learning': knowledge_base/machine_learning/intro.md
   - Blog: 
       - 'Intro': blog/index.md
-      - 'Hello World': blog/hello-world.md
+      
   - Projects:
       - 'Intro': projects/index.md
   - Book Recommendations:
@@ -118,6 +118,7 @@ nav:
 
 extra_css:
   - stylesheets/extra.css
+  
 
 
 
