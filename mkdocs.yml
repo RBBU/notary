@@ -109,6 +109,7 @@ nav:
       - 'Intro to Machine Learning': knowledge_base/machine_learning/intro.md
   - Blog: 
       - 'Intro': blog/index.md
+      - 'Update': blog/update.md
       
   - Projects:
       - 'Intro': projects/index.md
