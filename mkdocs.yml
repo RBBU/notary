@@ -107,6 +107,7 @@ nav:
   - Knowledge Base:
       - 'Machine Learning': knowledge_base/machine_learning/index.md
       - 'Intro to Machine Learning': knowledge_base/machine_learning/intro.md
+      - 'Machine Learning by Hand':knowledge_base/machine_learning/machine_learning_by_hand.md
   - Blog: 
       - 'Intro': blog/index.md
       - 'Update': blog/update.md
