@@ -2,37 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://rbbu.github.io/notary/</loc>
-         <lastmod>2024-05-18</lastmod>
+         <lastmod>2024-05-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rbbu.github.io/notary/blog/</loc>
-         <lastmod>2024-05-18</lastmod>
+         <lastmod>2024-05-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rbbu.github.io/notary/blog/update/</loc>
-         <lastmod>2024-05-18</lastmod>
+         <lastmod>2024-05-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rbbu.github.io/notary/book_recommendations/</loc>
-         <lastmod>2024-05-18</lastmod>
+         <lastmod>2024-05-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rbbu.github.io/notary/knowledge_base/machine_learning/</loc>
-         <lastmod>2024-05-18</lastmod>
+         <lastmod>2024-05-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rbbu.github.io/notary/knowledge_base/machine_learning/intro/</loc>
-         <lastmod>2024-05-18</lastmod>
+         <lastmod>2024-05-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rbbu.github.io/notary/knowledge_base/machine_learning/machine_learning/machine_learning_by_hand/</loc>
+         <lastmod>2024-05-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rbbu.github.io/notary/projects/</loc>
-         <lastmod>2024-05-18</lastmod>
+         <lastmod>2024-05-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
